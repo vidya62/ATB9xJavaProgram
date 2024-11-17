@@ -6,9 +6,9 @@ public class Lab011 {
         // Syntax: Datatype variable_name = value;
         int age = 29;
         //int --> data type --> Whole numbers
-        // age --> variable_name
+        // age --> variable_name Or Identifier
         //= --> assignment operator
-        //29 --> value;
+        //29 --> value; Or literals
 
     }
 }
